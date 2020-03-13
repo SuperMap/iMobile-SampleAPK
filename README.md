@@ -1,4 +1,4 @@
-# Supermap-iMobile-SampleAPK
+# iMobile-SampleAPK
 
 Supermap iMoblie 示范工程展示
 
